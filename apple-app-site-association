@@ -1,5 +1,7 @@
 {
     "webcredentials": {
-        "apps":["N872GC5833.com.cathaypacific.alpha.lrp"] 
+        "apps":["N872GC5833.com.cathaypacific.alpha.lrp",
+                "N872GC5833.com.mccann.CXMobileUAT",
+                "N872GC5833.com.mccann.CXMobile"] 
     }
 }
